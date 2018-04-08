@@ -1,7 +1,7 @@
 ## Santiago Zubieta
 #### EAFIT University, 2013-1
 
-*'My Son, beware, of all that your eyes cannot see. Trust your mind and strengthen your abilities'*
+*'My Son, beware, of all that your eyes cannot see. Trust your mind and strengthen your abilities'*  
 -Haggard, Eppur Si Muove
 
 ## Programming Paradigms Challenges
