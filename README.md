@@ -1,11 +1,12 @@
 ## Santiago Zubieta
-#### EAFIT University, 2013-1
-
-*'My Son, beware, of all that your eyes cannot see. Trust your mind and strengthen your abilities'*  
--Haggard, Eppur Si Muove
+#### Universidad EAFIT, 2013-1
 
 ## Programming Paradigms Challenges
-Challenges for the (optional) Programming Paradigms course, which dealt with the *Logical Paradigm* (using **Prolog**) and the *Functional Paradigm* (using **Haskell**). Most of the Challenges are made in **Prolog**, the **Haskell** ones are *very* scarce since that area came at the tail end of the course. Also, I did a small [presentation](https://github.com/Zubieta/Programming_Paradigms/raw/master/Common_Lisp_Slides.pdf) on a functional language I like, which is **LISP**. This was made for educational purposes and is licensed under the **MIT License**.
+Some of the challenges for the **Programming Paradigms** course, which dealt with the **Logical Paradigm** _(using **Prolog**)_ and the **Functional Paradigm** _(using **Haskell**)_. Most of the Challenges are made in **Prolog**, the **Haskell** ones are *very* scarce since that area came at the end of the course.
+
+Also, I did a small [presentation](https://github.com/zubie7a/Programming_Paradigms/raw/master/Common_Lisp_Slides.pdf) on a functional language I like, which is **LISP**.
+
+This was made for educational purposes and is licensed under the **MIT License**.
 
 ### XKCD On LISP...
-[![](https://i.imgur.com/1iAdyHS.png)](https://xkcd.com/224/)
+[![](https://imgs.xkcd.com/comics/lisp.jpg)](https://xkcd.com/224/)
